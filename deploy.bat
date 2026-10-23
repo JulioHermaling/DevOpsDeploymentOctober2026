@@ -1,0 +1,1 @@
+scp -r webfiles/. ptadmin@20.13.173.228:~/webfiles/
